@@ -1,0 +1,9 @@
+{
+  "name": "rpid",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "onoff": "^6.0.3"
+  }
+}
