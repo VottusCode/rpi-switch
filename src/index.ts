@@ -1,6 +1,8 @@
 // test
 import PowerSwitch from "./PowerSwitch";
 
-const sw = new PowerSwitch();
+const PWR_PIN = 17;
+
+const sw = new PowerSwitch(PWR_PIN);
 
 sw.click();
