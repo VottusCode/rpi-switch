@@ -31,3 +31,6 @@ class PowerSwitch extends BaseSwitch {
     if (!keep) this.unpress();
   }
 }
+
+export { PowerSwitch };
+export default PowerSwitch;
